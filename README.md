@@ -39,6 +39,8 @@ The showcase documents:
 
 An experimental market-intelligence and decision-system platform using structured data, risk management, simulation/paper trading, and AI-assisted analysis. Its proprietary decision rules, trading signals, thresholds, and scoring logic are not published.
 
+[View the public technical case study](https://github.com/crosscrypto75/investment-brain-showcase)
+
 ### Local-first Accounting Application — private
 
 A real business application built around a practical division of responsibility:
