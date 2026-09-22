@@ -41,15 +41,11 @@ An experimental market-intelligence and decision-system platform using structure
 
 [View the public technical case study](https://github.com/crosscrypto75/investment-brain-showcase)
 
-### Local-first Accounting Application — private
+### Local-first Accounting Application — private implementation / public case study
 
-A real business application built around a practical division of responsibility:
+A practical accounting and business-management application built around deterministic accounting truth, optional AI assistance, and human validation for consequential or uncertain actions.
 
-- AI for document understanding
-- Deterministic rules for reconciliation
-- Human validation when confidence is insufficient
-
-Private business data and implementation details remain private.
+[View the public technical case study](https://github.com/crosscrypto75/local-first-accounting-showcase)
 
 ### Multichain / Solana Experiment — in development
 
