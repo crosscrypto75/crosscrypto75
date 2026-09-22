@@ -35,7 +35,7 @@ The showcase documents:
 - sanitized engineering case studies
 - planned application integration model
 
-### Investment Brain — private
+### Investment Brain — private implementation / public case study
 
 An experimental market-intelligence and decision-system platform using structured data, risk management, simulation/paper trading, and AI-assisted analysis. Its proprietary decision rules, trading signals, thresholds, and scoring logic are not published.
 
