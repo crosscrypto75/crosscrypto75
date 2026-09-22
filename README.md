@@ -17,11 +17,23 @@ I build AI systems around a simple principle:
 
 ## Selected work
 
-### Universal Agent Harness — private
+### Universal Agent Harness — private implementation / public architecture showcase
 
-Provider- and domain-agnostic infrastructure for bounded agent execution. Current work includes a deterministic task lifecycle, policy and capability enforcement, Builder / Corrector / Validator workflows, provider routing, supervised Claude and Codex workers, durable execution and recovery, reconciliation, context routing and budgeting, controlled memory retrieval, SQLite and in-memory persistence, and deterministic test coverage.
+Provider- and domain-agnostic infrastructure for bounded agent execution.
 
-The implementation remains private. A public technical showcase will focus on architecture and demonstrations without exposing proprietary internals.
+The full implementation remains private.
+
+[View the public technical showcase](https://github.com/crosscrypto75/universal-agent-harness-showcase)
+
+The showcase documents:
+
+- architecture and system boundaries
+- capability and authority principles
+- Builder / Validator separation
+- provider-agnostic design
+- recovery and unknown-outcome handling
+- sanitized engineering case studies
+- planned application integration model
 
 ### Investment Brain — private
 
